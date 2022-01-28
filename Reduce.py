@@ -1,4 +1,4 @@
-f = open("out01.txt","r")
+f = open("Sorteroutput.txt","r")
 r = open("reduceoutput.txt", "w")
 
 thisKey = ""
